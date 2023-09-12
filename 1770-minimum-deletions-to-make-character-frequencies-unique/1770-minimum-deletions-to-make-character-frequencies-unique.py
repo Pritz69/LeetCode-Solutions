@@ -8,8 +8,15 @@ class Solution:
         #print(d)
         for x in d :
             freq=d[x]
-            while freq > 0  and freq in used :
+            #while freq > 0  and freq in used :
+            #    freq -=1
+            #    res +=1
+            #used.add(freq)
+            while freq in used :
                 freq -=1
                 res +=1
-            used.add(freq)
+            if freq==0 :
+                continue
+            else :
+                used.add(freq)
         return res
