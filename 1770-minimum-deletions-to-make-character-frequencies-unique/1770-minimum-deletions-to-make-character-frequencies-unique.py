@@ -5,7 +5,7 @@ class Solution:
             d[x] +=1
         res=0
         used=set()
-        print(d)
+        #print(d)
         for x in d :
             freq=d[x]
             while freq > 0  and freq in used :
