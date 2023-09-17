@@ -13,7 +13,8 @@ class Solution {
 		}
 		int [][] visitedMap = new int [graph.length][finalState+1];
 		int shortestPath = 0;
-		while(!qu.isEmpty()){
+		while(!qu.isEmpty())
+        {
 			int size = qu.size();
 			shortestPath++;
 			for(int i=0; i<size; i++)
