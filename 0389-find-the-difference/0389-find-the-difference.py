@@ -1,16 +1,12 @@
-class Solution(object):
-    def findTheDifference(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: str
-        """
-        d={}
-        for i in t :
-            d[i]=d.get(i,0) +1
-        for i in s :
-            d[i]=d.get(i,0) -1
-        for x in d :
-            if d[x]==1 :
-                return x
-        return 0
+class Solution:
+    def findTheDifference(self, s: str, t: str) -> str:
+        ans = 0
+        for c in t:
+            ans =ans+ ord(c)
+
+        for c in s:
+            ans =ans- ord(c)           
+        return chr(ans)
+
+
+        
