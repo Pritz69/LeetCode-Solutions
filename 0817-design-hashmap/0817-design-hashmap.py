@@ -28,6 +28,7 @@ class MyHashMap:
                 return cur.val
             cur = cur.next
         return -1
+        
     def remove(self, key: int) -> None:
         cur = self.map[self.hash(key)]
         while cur and cur.next :
