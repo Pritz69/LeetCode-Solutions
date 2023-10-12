@@ -9,7 +9,7 @@
 class Solution:
     def findInMountainArray(self, target: int, mountain_arr: 'MountainArray') -> int:
         n=mountain_arr.length()
-        def findpeak():  
+        def findpeak():  # Finding one/multiple peak using the concept provided by Striver
             if n==1 :
                 return 0
             if mountain_arr.get(0) > mountain_arr.get(1) :
@@ -34,7 +34,7 @@ class Solution:
         search=-1
         l=0
         r=p
-        while l<=r :
+        while l<=r :    # After finding the peak, searching in ascending half ( 0 to peak)
             m=(l+r)//2
             curr=mountain_arr.get(m)
             if curr==target :
@@ -48,12 +48,12 @@ class Solution:
             return search
         l=p+1
         r=n-1
-        while l<=r :
+        while l<=r : # If not found in ascending half, searching in descending half...so conidtions of search reversed. (peak to end)
             m=(l+r)//2
             curr=mountain_arr.get(m)
             if curr==target :
                 search=m
-                l=m+1
+                break   # Break , as soon as we get the searched element ,, since we want leftmost/minimum index.
             if curr > target :
                 l=m+1
             else :
