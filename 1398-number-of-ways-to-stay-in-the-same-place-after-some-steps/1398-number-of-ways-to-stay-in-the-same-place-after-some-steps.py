@@ -2,9 +2,9 @@ class Solution:
     def numWays(self, steps: int, arrLen: int) -> int:
         dp={}
         mod=10**9 + 7
-        
+
         def rec(ind,steps) :
-            if ind==arrLen or ind<0:
+            if ind>=arrLen or ind<0:
                return 0
             if steps==0 :
                 if ind==0 :
