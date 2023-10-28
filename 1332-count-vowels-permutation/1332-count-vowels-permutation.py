@@ -13,21 +13,22 @@ class Solution:
                 c += rec(i+1,"i")
                 c += rec(i+1,"o")
                 c += rec(i+1,"u")
-            if s and s[-1]=='a' :
-                c += rec(i+1,"e")
-            if s and s[-1]=='e' :
-                c += rec(i+1,"a")
-                c += rec(i+1,"i")
-            if s and s[-1]=='i' :
-                c += rec(i+1,"a")
-                c += rec(i+1,"e")
-                c += rec(i+1,"o")
-                c += rec(i+1,"u")
-            if s and s[-1]=='o' :
-                c += rec(i+1,"i")
-                c += rec(i+1,"u")
-            if s and s[-1]=='u' :
-                c += rec(i+1,"a")
+            else :
+                if s=='a' :
+                    c += rec(i+1,"e")
+                if s=='e' :
+                    c += rec(i+1,"a")
+                    c += rec(i+1,"i")
+                if s=='i' :
+                    c += rec(i+1,"a")
+                    c += rec(i+1,"e")
+                    c += rec(i+1,"o")
+                    c += rec(i+1,"u")
+                if s=='o' :
+                    c += rec(i+1,"i")
+                    c += rec(i+1,"u")
+                if s=='u' :
+                    c += rec(i+1,"a")
             dp[(i,s)] = c % mod
             return dp[(i,s)]
         dp={}
