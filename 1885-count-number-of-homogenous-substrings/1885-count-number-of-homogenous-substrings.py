@@ -1,8 +1,9 @@
 class Solution:
     def countHomogenous(self, s: str) -> int:
         d={}
-        for x in s :
-           d[x]=d.get(x,0)+1
+        #for x in s :
+        #   d[x]=d.get(x,0)+1
+        d=Counter(s)
         tc=0
         cs=1
         for i in range(1,len(s)) :
