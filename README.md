@@ -16,3 +16,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Database
+|  |
+| ------- |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
