@@ -19,4 +19,5 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 # Database
 |  |
 | ------- |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
