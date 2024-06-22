@@ -12,3 +12,5 @@ class Solution:
             return res
 
         return atMost(k) - atMost(k - 1)
+
+#exactly= atmost k - atmost k-1
