@@ -5,25 +5,12 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    val=0
     def bstToGst(self, root: TreeNode) -> TreeNode:
-        l=[]
-        def inorder(node) :
-            if not node :
-                return 
-            inorder(node.left)
-            l.append(node.val)
-            inorder(node.right)
-        def changer(node) :
-            if not node :
-                return
-            changer(node.left)
-            s=0
-            for x in l :
-                if x >= node.val :
-                    s +=x
-            node.val=s
-            changer(node.right)
-        inorder(root)
-        changer(root)
+        if root.right: 
+            self.bstToGst(root.right)
+        root.val = self.val = self.val + root.val
+        if root.left: 
+            self.bstToGst(root.left)
         return root
         
