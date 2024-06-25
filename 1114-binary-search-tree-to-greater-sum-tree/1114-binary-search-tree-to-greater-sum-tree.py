@@ -17,8 +17,10 @@ class Solution:
             if not node :
                 return
             changer(node.left)
-            i=l.index(node.val)
-            s=sum(l[i:len(l)])
+            s=0
+            for x in l :
+                if x >= node.val :
+                    s +=x
             node.val=s
             changer(node.right)
         inorder(root)
