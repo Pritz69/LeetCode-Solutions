@@ -162,3 +162,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1916-find-center-of-star-graph) |
