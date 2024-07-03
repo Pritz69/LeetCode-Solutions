@@ -220,4 +220,8 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Database
+|  |
+| ------- |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
