@@ -223,6 +223,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0626-exchange-seats) |
