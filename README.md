@@ -223,6 +223,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 | [1877-find-followers-count](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1877-find-followers-count) |
