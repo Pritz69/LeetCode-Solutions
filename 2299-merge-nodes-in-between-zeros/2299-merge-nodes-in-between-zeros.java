@@ -19,19 +19,25 @@ class Solution {
             if(curr.val==0)
             {
                 int s=0;
+                ListNode p=curr;
                 curr=curr.next;
                 int c=0;
                 while(curr!=null && curr.val!=0)
                 {
                     s += curr.val;
+                    p=curr;
                     curr=curr.next;
                     c +=1;
                 }
-                if (c>=1)
+                if (s!=0 && c>=1)
                 {
-                    ListNode n=new ListNode(s);
-                    prev.next=n;
-                    prev=n;
+                    p.val=s;
+                    prev.next=p;
+                    prev=p;
+                }
+                else
+                {
+                    prev.next=curr;
                 }
             }
         }
