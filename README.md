@@ -226,6 +226,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0610-triangle-judgement](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0626-exchange-seats) |
+| [1811-fix-names-in-a-table](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1942-primary-department-for-each-employee) |
