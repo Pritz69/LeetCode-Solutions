@@ -241,4 +241,9 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
