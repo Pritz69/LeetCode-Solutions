@@ -196,6 +196,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -211,6 +212,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
