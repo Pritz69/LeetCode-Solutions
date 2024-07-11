@@ -267,9 +267,11 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
