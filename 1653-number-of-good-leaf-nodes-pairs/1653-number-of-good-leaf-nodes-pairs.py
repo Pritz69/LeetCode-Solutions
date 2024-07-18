@@ -16,6 +16,8 @@ class Solution:
             left=dfs(node.left)
             right=dfs(node.right)
             for x in left :
+                if x >= distance :
+                    continue
                 for y in right :
                     if (x+y) <= distance :
                         ans +=1
