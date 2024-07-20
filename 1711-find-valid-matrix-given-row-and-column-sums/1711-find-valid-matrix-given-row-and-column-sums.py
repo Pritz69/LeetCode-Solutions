@@ -1,20 +1,20 @@
 class Solution:
-    def restoreMatrix(self, rowSum: List[int], colSum: List[int]) -> List[List[int]]:
-        n,m=len(rowSum),len(colSum)
-        mat=[[0]*(m) for i in range(n)]
-        cols=0
-        for r in range(n) :
-            mat[r][0]=rowSum[r]
-        for c in range(m) :
-            cols=0
-            for r in range(n) :
-                cols +=mat[r][c]
-            r=0
-            while cols > colSum[c] : 
-                diff=cols-colSum[c]
-                maxshift=min(mat[r][c],diff)
-                mat[r][c] -=maxshift
-                mat[r][c+1] +=maxshift
-                cols -= maxshift
-                r +=1
-        return mat
+    def restoreMatrix(self, rowSum, colSum):
+        N = len(rowSum)
+        M = len(colSum)
+
+        orig_matrix = [[0] * M for _ in range(N)]
+        i, j = 0, 0
+
+        while i < N and j < M:
+            orig_matrix[i][j] = min(rowSum[i], colSum[j])
+
+            rowSum[i] -= orig_matrix[i][j]
+            colSum[j] -= orig_matrix[i][j]
+
+            if rowSum[i] == 0:
+                i += 1
+            else:
+                j += 1
+
+        return orig_matrix
