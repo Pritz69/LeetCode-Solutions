@@ -18,9 +18,7 @@ class Solution:
             for e in x :
                 if e <= distanceThreshold :
                     c +=1
-            if c < m :
+            if c <= m :
                 m=c
                 ans=i
-            elif c==m :
-                ans=max(ans,i)
         return ans
