@@ -190,6 +190,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -219,6 +220,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2472-build-a-matrix-with-conditions](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2846-robot-collisions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -303,6 +305,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
 | ------- |
@@ -363,4 +366,5 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
