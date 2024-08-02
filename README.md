@@ -220,6 +220,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2502-sort-the-people) |
@@ -383,4 +384,8 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
