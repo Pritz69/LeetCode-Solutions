@@ -182,6 +182,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
@@ -336,6 +337,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -343,6 +345,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
