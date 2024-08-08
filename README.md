@@ -208,6 +208,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0921-spiral-matrix-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -295,6 +296,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -360,6 +362,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
