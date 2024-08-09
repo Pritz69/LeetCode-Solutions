@@ -208,6 +208,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0870-magic-squares-in-grid](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
@@ -237,6 +238,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -307,6 +309,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
@@ -362,6 +365,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
