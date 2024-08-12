@@ -11,8 +11,6 @@ class KthLargest:
         if (len(self.minh) > self.k) :
             heapq.heappop(self.minh)
         return self.minh[0]
-
-
 # Your KthLargest object will be instantiated and called as such:
 # obj = KthLargest(k, nums)
 # param_1 = obj.add(val)
