@@ -1,19 +1,10 @@
 class Solution:
     def findComplement(self, num: int) -> int:
-        st=""
-        while num :
-            st = str(num%2) +st
-            num = num//2
-        ans=""
-        for x in st :
-            if x=="0" :
-                ans += "1"
-            else :
-                ans += "0"
-        ans.lstrip("0")
-        a=0
-        p=1
-        for i in range(len(ans)-1,-1,-1) :
-            a=a + int(ans[i])*p
-            p *=2
-        return a
+        s=list(bin(num)[2:])
+        for i in range(len(s)):
+            if s[i]=='0':
+                s[i]='1' 
+            elif s[i]=='1' :
+                s[i]='0'
+        return int(''.join(s),2)
+
