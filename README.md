@@ -480,4 +480,8 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
