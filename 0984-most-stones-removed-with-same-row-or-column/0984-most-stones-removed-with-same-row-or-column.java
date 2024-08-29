@@ -1,25 +1,25 @@
 class Solution {
+    // Ans = # of stones – # of islands
     public int removeStones(int[][] stones) {
- 
-        HashSet<Pair <Integer,Integer>> visited = new HashSet<>(); 
-        int ans = stones.length;
-        for(int i=0;i<stones.length;i++){
-            if(!visited.contains(new Pair <Integer,Integer> (stones[i][0],stones[i][1]))){
-                dfs(stones,visited,stones[i][0],stones[i][1]);
-                ans--;
+        Set<int[]> visited = new HashSet();
+        int numOfIslands = 0;
+        for (int[] s1:stones){
+            if (!visited.contains(s1)){
+               dfs(s1, visited, stones); 
+               numOfIslands++;
             }
         }
-        return ans;
+        return stones.length - numOfIslands;
     }
     
-    void dfs(int[][] stones,HashSet<Pair <Integer,Integer>> visited,int i,int j){
-        visited.add(new Pair<Integer,Integer>(i,j));
-        for(int k=0;k<stones.length;k++){
-            if(!visited.contains(new Pair <Integer,Integer> (stones[k][0],stones[k][1]))){
-                if(i==stones[k][0] || j==stones[k][1])
-                    dfs(stones,visited,stones[k][0],stones[k][1]);
+    private void dfs(int[] s1, Set<int[]> visited, int[][] stones){
+        visited.add(s1);
+        for (int[] s2: stones){
+            if (!visited.contains(s2)){
+				// stone with same row or column. group them into island
+                if (s1[0] == s2[0] || s1[1] == s2[1])
+                    dfs(s2, visited, stones);
             }
         }
     }
-    
 }
