@@ -9,6 +9,4 @@ class Solution:
             else :
                 k -= chalk[i]
                 i +=1
-                if i==len(chalk) :
-                    i=0
         return i
