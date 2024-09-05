@@ -3,6 +3,8 @@ class Solution:
         m=len(rolls)
         avg=mean*(m+n)
         avg=avg-sum(rolls)
+        if avg <=0 :
+            return []
         ans=[]
         while n-1 :
             x=avg//n
