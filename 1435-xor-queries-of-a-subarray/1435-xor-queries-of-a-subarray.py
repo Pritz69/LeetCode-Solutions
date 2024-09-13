@@ -11,8 +11,6 @@ class Solution:
         for i in range(len(arr)-1,-1,-1) :
             xr=xr^arr[i]
             xor[i]=xr
-        print(xol)
-        print(xor)
         for q in queries :
             l,r=q[0],q[1]
             a=x
