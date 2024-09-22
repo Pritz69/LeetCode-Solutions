@@ -602,4 +602,5 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
