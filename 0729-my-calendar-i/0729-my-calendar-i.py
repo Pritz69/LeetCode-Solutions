@@ -5,7 +5,7 @@ class MyCalendar:
 
     def book(self, start: int, end: int) -> bool:
         for s, e in self.bookings:
-            if max(s, start) < min(e, end): 
+            if start < e and end > s: 
                 return False
         self.bookings.append((start, end))
         return True
