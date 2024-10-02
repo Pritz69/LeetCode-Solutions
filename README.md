@@ -243,6 +243,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1196-filling-bookcase-shelves](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -293,6 +294,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -330,6 +332,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
