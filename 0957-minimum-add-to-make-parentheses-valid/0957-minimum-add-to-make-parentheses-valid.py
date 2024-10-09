@@ -1,12 +1,12 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
-        st=[]
+        o=0
         c=0
         for x in s :
-            if st and x==")" :
-                st.pop()
+            if o>0 and x==")" :
+                o -=1
             elif x=="(" :
-                st.append(x)
+                o +=1
             else :
                 c +=1
-        return len(st)+c
+        return o+c
