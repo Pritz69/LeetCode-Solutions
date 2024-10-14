@@ -6,7 +6,5 @@ class Solution:
         for i in range(k) :
             e=heapq.heappop(l)
             ans += (-1*e)
-            el=floor(e/3)
-            heapq.heappush(l,el)
-            print(e,ans,el)
+            heapq.heappush(l,floor(e/3))
         return ans
