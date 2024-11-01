@@ -496,6 +496,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
