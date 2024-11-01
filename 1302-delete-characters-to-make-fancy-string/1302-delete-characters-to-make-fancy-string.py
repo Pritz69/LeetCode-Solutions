@@ -6,7 +6,4 @@ class Solution:
                 continue
             else :
                 st.append(x)
-        ans=""
-        for x in st :
-            ans +=x
-        return ans
+        return "".join(st)
