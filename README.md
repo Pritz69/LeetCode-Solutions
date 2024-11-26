@@ -216,6 +216,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
+| [3189-find-champion-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
