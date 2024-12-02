@@ -381,6 +381,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0567-permutation-in-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
@@ -555,6 +556,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1304-longest-happy-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -817,6 +819,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
