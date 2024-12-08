@@ -301,6 +301,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2164-two-best-non-overlapping-events](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -409,6 +410,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2164-two-best-non-overlapping-events](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -432,6 +434,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2164-two-best-non-overlapping-events](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2502-sort-the-people) |
@@ -679,6 +682,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1304-longest-happy-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2164-two-best-non-overlapping-events](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -722,6 +726,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2164-two-best-non-overlapping-events](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
