@@ -5,20 +5,12 @@ class Solution:
             intervals.append((x-k,x+k))
         events = []
         for start, end in intervals:
-            events.append((start, 'start'))
-            events.append((end, 'end'))
-
-        events.sort(key=lambda x: (x[0], x[1] == 'end'))
-        #print(intervals)
-        #print(events)
+            events.append((start, 1))  
+            events.append((end, -1))  
+        events.sort(key=lambda x: (x[0], -x[1]))  #makes st -1 and end +1 , so -1 < +1 and st gets prioritized
         active_intervals = 0
         max_overlap = 1
-
-        for time, event_type in events:
-            if event_type == 'start':
-                active_intervals += 1
-                max_overlap = max(max_overlap, active_intervals)
-            else: 
-                active_intervals -= 1
-        
+        for time, value in events:
+            active_intervals += value 
+            max_overlap = max(max_overlap, active_intervals)
         return max_overlap
