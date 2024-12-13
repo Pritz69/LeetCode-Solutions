@@ -12,9 +12,7 @@ class Solution:
                 continue  
             ans += value
             marked.add(index)
-            if index - 1 >= 0:
-                marked.add(index - 1)
-            if index + 1 < n:
-                marked.add(index + 1)
+            marked.add(index - 1)
+            marked.add(index + 1)
         
         return ans
