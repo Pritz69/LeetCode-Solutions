@@ -13,17 +13,15 @@ class Solution:
                 l = 0           
                 r = len(q)-1    
                 while l<r: 
-                    ### Sweep the value of the left node and right node.
                     q[l].val,q[r].val = q[r].val,q[l].val
                     l+=1
                     r-=1
-            ### Same as regular BSF, adding the node for the next level.
+            ### Same as regular BFS, adding the node for the next level.
             for _ in range(len(q)):
                 cur = q.popleft()
                 if cur.left:
                     q.append(cur.left)
                 if cur.right:
                     q.append(cur.right)
-            ### Increase the level.
             level += 1
         return root
