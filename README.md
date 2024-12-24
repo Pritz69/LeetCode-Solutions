@@ -194,6 +194,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
@@ -229,6 +231,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2803-modify-graph-edge-weights](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
@@ -670,6 +673,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
