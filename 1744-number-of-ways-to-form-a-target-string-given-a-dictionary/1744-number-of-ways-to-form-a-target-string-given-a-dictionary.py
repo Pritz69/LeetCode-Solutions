@@ -17,4 +17,3 @@ class Solution:
             dp[(i,k)] += cnt[(k,c)]*dfs(i+1,k+1)
             return dp[(i,k)] % ((10**9) + 7)
         return dfs(0,0)
-            
