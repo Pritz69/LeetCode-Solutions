@@ -6,15 +6,13 @@ class Solution:
                 l.append(1)
             else :
                 l.append(0)
-        ps=[0]*len(l)
-        ps[0]=l[0]
         for i in range(1,len(l)) :
-            ps[i]=ps[i-1]+l[i]
+            l[i]=l[i-1]+l[i]
         ans=[]
         for x in queries:
             start, end = x
             if start > 0:
-                ans.append(ps[end] - ps[start - 1])
+                ans.append(l[end] - l[start - 1])
             else:
-                ans.append(ps[end])
+                ans.append(l[end])
         return ans
