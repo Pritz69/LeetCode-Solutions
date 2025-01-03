@@ -1,14 +1,14 @@
 class Solution:
     def waysToSplitArray(self, nums: List[int]) -> int:
-        ps=[0]*len(nums)
+        n=len(nums)
+        ps=[0]*n
         ps[0]=nums[0]
-        for i in range(1,len(nums)):
+        for i in range(1,n):
             ps[i]=ps[i-1]+nums[i]
         ans=0
-        #print(ps)
-        for i in range(len(nums)-1) :
+        for i in range(n-1) :
             l=ps[i]
-            r=ps[len(nums)-1]-ps[i]
+            r=ps[n-1]-ps[i]
             if l >= r :
                 ans +=1
         return ans
