@@ -5,7 +5,6 @@ class Solution:
             for c in x :
                 mf[c]=max(mf[c],x.count(c))
         ans=[]
-        print(mf)
         for x in words1 :
             c=True
             for c in mf :
