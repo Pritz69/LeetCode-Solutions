@@ -1,13 +1,13 @@
 class Solution:
     def minimumLength(self, s: str) -> int:
-        d=defaultdict(list)
+        d=defaultdict(int)
         for i,x in enumerate(s) :
-            d[x].append(i)
-            if len(d[x])==3 :
-                d[x].pop(0)
-                d[x].pop(1)
+            d[x] +=1
         s=0
         for x in d :
-            s +=len(d[x])
+            if d[x]%2==0 :
+                s +=2
+            else :
+                s +=1
         return s
         
