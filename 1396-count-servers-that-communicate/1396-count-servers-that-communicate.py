@@ -2,19 +2,16 @@ class Solution:
     def countServers(self, grid: List[List[int]]) -> int:
         n=len(grid)
         m=len(grid[0])
-        rc=[0]*n
-        cc=[0]*m
-        for i in range(n):
-            rc[i]=grid[i].count(1)
-        for j in range(m) :
-            c=0
-            for i in range(n) :
+        dr={}
+        dc={}
+        for i in range(n) :
+            for j in range(m) :
                 if grid[i][j] :
-                    c +=1
-            cc[j]=c
+                    dr[i]=dr.get(i,0)+1
+                    dc[j]=dc.get(j,0)+1
         ans=0
         for i in range(n) :
             for j in range(m) :
-                if grid[i][j] and (rc[i] > 1 or cc[j]>1) :
+                if grid[i][j] and (dr[i] > 1 or dc[j]>1) :
                     ans +=1
         return ans
