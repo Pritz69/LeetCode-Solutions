@@ -193,6 +193,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2035-count-sub-islands](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -236,6 +237,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -249,6 +251,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
 |  |
