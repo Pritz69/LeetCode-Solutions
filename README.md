@@ -181,6 +181,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0684-redundant-connection](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -211,6 +212,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0684-redundant-connection](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -268,6 +270,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -293,6 +296,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0731-my-calendar-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0890-lemonade-change) |
@@ -776,6 +780,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
