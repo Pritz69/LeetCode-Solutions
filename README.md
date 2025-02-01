@@ -409,6 +409,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
