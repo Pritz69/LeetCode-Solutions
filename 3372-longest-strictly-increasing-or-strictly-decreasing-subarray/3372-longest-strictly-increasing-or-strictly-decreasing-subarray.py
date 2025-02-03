@@ -5,19 +5,16 @@ class Solution:
         n=len(nums)
         ans=1
         ld=1
-        pd=nums[0]
         for i in range(1,n) :
             if nums[i] > p :
                 li +=1
-                ans=max(ans,li)
                 ld=1
-            elif nums[i] < pd :
+            elif nums[i] < p :
                 ld +=1
-                ans=max(ans,ld)
                 li=1
             else :
                 ld=1
                 li=1
             p=nums[i]
-            pd=nums[i]
+            ans=max(ans,max(li,ld))
         return ans
