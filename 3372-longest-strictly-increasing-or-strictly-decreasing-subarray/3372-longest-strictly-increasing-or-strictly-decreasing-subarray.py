@@ -10,14 +10,14 @@ class Solution:
             if nums[i] > p :
                 li +=1
                 ans=max(ans,li)
-            else :
-                li=1
-            p=nums[i]
-            if nums[i] < pd :
+                ld=1
+            elif nums[i] < pd :
                 ld +=1
                 ans=max(ans,ld)
+                li=1
             else :
                 ld=1
+                li=1
+            p=nums[i]
             pd=nums[i]
-            print(li,ld)
         return ans
