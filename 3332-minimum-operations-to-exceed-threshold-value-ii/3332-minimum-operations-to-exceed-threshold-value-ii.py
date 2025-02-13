@@ -1,6 +1,5 @@
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
-        nums.sort()
         heap = []
         for num in nums:
             heappush(heap, num)
@@ -11,5 +10,4 @@ class Solution:
             new_element = x*2 + y
             heappush(heap, new_element)
             operations += 1
-        
         return operations
