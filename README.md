@@ -673,6 +673,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2155-find-missing-observations](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2645-pass-the-pillow) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
