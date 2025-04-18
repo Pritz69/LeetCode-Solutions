@@ -743,6 +743,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
