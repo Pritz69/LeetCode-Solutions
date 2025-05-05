@@ -1010,6 +1010,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0650-2-keys-keyboard](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0806-domino-and-tromino-tiling](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
