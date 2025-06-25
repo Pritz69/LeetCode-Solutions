@@ -401,6 +401,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2107-find-unique-binary-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2145-grid-game) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2155-find-missing-observations](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -589,6 +590,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
