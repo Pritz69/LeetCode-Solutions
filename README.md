@@ -874,6 +874,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3447-clear-digits](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1102,6 +1103,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 ## Shortest Path
@@ -1207,6 +1209,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2915-count-of-interesting-subarrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
