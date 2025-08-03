@@ -412,6 +412,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2232-adding-spaces-to-a-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
@@ -608,6 +609,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2164-two-best-non-overlapping-events](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1161,6 +1163,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2478-longest-nice-subarray](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1231,6 +1234,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
