@@ -498,6 +498,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
@@ -1022,6 +1023,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1147,6 +1149,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3618-find-the-original-typed-string-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1309,6 +1312,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Rolling Hash
 |  |
 | ------- |
