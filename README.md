@@ -312,6 +312,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0179-largest-number](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0179-largest-number) |
@@ -505,6 +506,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -993,6 +995,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
