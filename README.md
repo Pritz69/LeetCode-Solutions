@@ -1291,6 +1291,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1309,6 +1310,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Memoization
 |  |
 | ------- |
@@ -1385,6 +1387,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
