@@ -501,6 +501,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3647-zero-array-transformation-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
@@ -809,6 +810,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
 |  |
@@ -1298,6 +1300,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Number Theory
 |  |
 | ------- |
