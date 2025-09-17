@@ -431,6 +431,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2429-design-a-food-rating-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -553,6 +554,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2300-construct-string-with-repeat-limit](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2429-design-a-food-rating-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -891,6 +893,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2300-construct-string-with-repeat-limit](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2429-design-a-food-rating-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -1057,6 +1060,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2164-two-best-non-overlapping-events](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2429-design-a-food-rating-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
@@ -1217,6 +1221,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2429-design-a-food-rating-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
@@ -1371,6 +1376,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0729-my-calendar-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
