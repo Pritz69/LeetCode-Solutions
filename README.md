@@ -506,6 +506,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -582,6 +583,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3548-find-the-count-of-good-integers](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3827-implement-router](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -636,6 +638,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3427-special-array-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -835,6 +838,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -1223,6 +1227,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2429-design-a-food-rating-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [3827-implement-router](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1380,6 +1385,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2434-design-a-number-container-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
