@@ -401,6 +401,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1972-rotating-the-box](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2023-design-movie-rental-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2035-count-sub-islands](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -546,6 +547,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2023-design-movie-rental-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -1060,6 +1062,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1225,6 +1228,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2023-design-movie-rental-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3827-implement-router](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3827-implement-router) |
@@ -1380,6 +1384,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+| [2023-design-movie-rental-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
