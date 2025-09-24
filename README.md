@@ -514,6 +514,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0264-ugly-number-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
@@ -787,6 +788,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -847,6 +849,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
