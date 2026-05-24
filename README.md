@@ -356,6 +356,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1325-path-with-maximum-probability](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1340-jump-game-v](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -660,6 +661,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0948-sort-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1340-jump-game-v](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -1148,6 +1150,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1063-best-sightseeing-pair](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1340-jump-game-v](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
