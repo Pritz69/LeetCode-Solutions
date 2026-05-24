@@ -314,6 +314,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0033-search-in-rotated-sorted-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0179-largest-number](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -693,6 +694,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1132,6 +1134,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
