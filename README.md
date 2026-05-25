@@ -890,6 +890,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-jump-game-vii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
@@ -1161,6 +1162,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-jump-game-vii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1211,6 +1213,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
+| [1871-jump-game-vii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2478-longest-nice-subarray](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2478-longest-nice-subarray) |
@@ -1280,6 +1283,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1871-jump-game-vii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
