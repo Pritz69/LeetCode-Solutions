@@ -581,6 +581,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2755-extra-characters-in-a-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -922,6 +923,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2755-extra-characters-in-a-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
