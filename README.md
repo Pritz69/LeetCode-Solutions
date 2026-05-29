@@ -487,6 +487,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -827,6 +828,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3201-distribute-candies-among-children-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3548-find-the-count-of-good-integers](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
