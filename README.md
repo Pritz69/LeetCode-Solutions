@@ -482,6 +482,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3001-apply-operations-to-maximize-score](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3093-longest-common-suffix-queries](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3161-block-placement-queries](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -644,6 +645,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2716-prime-subtraction-operation](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3161-block-placement-queries](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3427-special-array-ii) |
@@ -1209,6 +1211,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1511-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
 |  |
@@ -1400,6 +1403,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [0729-my-calendar-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
