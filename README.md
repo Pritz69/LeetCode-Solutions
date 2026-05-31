@@ -411,6 +411,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2079-delete-duplicate-folders-in-system](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2126-destroying-asteroids](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -674,6 +675,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2126-destroying-asteroids](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2164-two-best-non-overlapping-events](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -722,6 +724,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [1917-maximum-average-pass-ratio](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2126-destroying-asteroids](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
