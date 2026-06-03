@@ -509,6 +509,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -618,6 +619,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Pritz69/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -651,6 +653,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3427-special-array-ii) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3827-implement-router) |
@@ -701,6 +704,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3291-find-if-array-can-be-sorted](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
@@ -746,6 +750,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3195-separate-black-and-white-balls](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Database
