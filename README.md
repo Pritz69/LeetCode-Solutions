@@ -211,6 +211,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -509,6 +510,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
@@ -846,6 +848,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3548-find-the-count-of-good-integers](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1016,6 +1019,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -1204,6 +1208,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3243-count-the-number-of-powerful-integers](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1359,6 +1364,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Number Theory
 |  |
