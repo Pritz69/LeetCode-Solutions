@@ -521,6 +521,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3838-weighted-word-mapping](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -809,6 +810,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -964,6 +966,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 | [3637-count-number-of-balanced-permutations](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3838-weighted-word-mapping](https://github.com/Pritz69/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
