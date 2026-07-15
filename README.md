@@ -773,6 +773,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0859-design-circular-deque) |
@@ -861,6 +862,7 @@ Easy Solutions of some of the best programs available on LeetCode for Beginners 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Pritz69/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/Pritz69/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
